@@ -21,9 +21,9 @@ Bridging the gap between software vulnerabilities and bare-metal reality:
 ## 🏛️ The Three Pillars of My Work
 I document my methodologies, architectural blueprints, and threat intelligence in the repositories below:
 
-1. **[The Bare-Metal Manifesto]:** Philosophical analyses dismantling the hype of software abstractions when they ignore physical infrastructure realities.
-2. **[EvoNova Security Architecture]:** Blueprints for secure cyber-physical systems and localized hardware deployments.
-3. **[Operational Defense & Analytics]:** Playbooks detailing practical network security tactics, system troubleshooting workflows, and data analytics strategies.
+1. **[The Bare-Metal Manifesto](https://github.com/Emyblaze/The-Bare-Metal-Manifesto):** Philosophical analyses dismantling the hype of software abstractions when they ignore physical infrastructure realities.
+2. **[EvoNova Security Architecture](https://github.com/Emyblaze/EvoNova-Security-Architecture):** Blueprints for secure cyber-physical systems and localized hardware deployments.
+3. **[Operational Defense & Analytics](https://github.com/Emyblaze/Operational-Defense-and-Analytics):** Playbooks detailing practical network security tactics, system troubleshooting workflows, and data analytics strategies.
 
 ## 📫 Connect with Me
 * **Email:** chukwuemekaabalijr@gmail.com
